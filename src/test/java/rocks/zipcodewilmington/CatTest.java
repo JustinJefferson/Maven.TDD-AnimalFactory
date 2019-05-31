@@ -11,13 +11,48 @@ import java.util.Date;
  */
 public class CatTest {
     // TODO - Create tests for `void setName(String name)`
-    // TODO - Create tests for `speak`
-    // TODO - Create tests for `setBirthDate(Date birthDate)`
-    // TODO - Create tests for `void eat(Food food)`
-    // TODO - Create tests for `Integer getId()`
-    // TODO - Create test to check Animal inheritance; google search `java instanceof keyword`
-    // TODO - Create test to check Mammal inheritance; google search `java instanceof keyword`
+    @Test
+    public void nameCatTest(){
+        Assert.assertFalse(true);
 
+    }
+
+    // TODO - Create tests for `speak`
+    @Test
+    public void speakCatTest(){
+        Assert.assertFalse(true);
+
+    }
+
+    // TODO - Create tests for `setBirthDate(Date birthDate)`
+    @Test
+    public void birthDateCatTest(){
+        Assert.assertFalse(true);
+    }
+
+    // TODO - Create tests for `void eat(Food food)`
+    @Test
+    public void eatCatTest() {
+        Assert.assertFalse(true);
+    }
+
+    // TODO - Create tests for `Integer getId()`
+    @Test
+    public void idCatTest() {
+        Assert.assertFalse(true);
+    }
+
+    // TODO - Create test to check Animal inheritance; google search `java instanceof keyword`
+    @Test
+    public void animalInheritanceCatTest(){
+        Assert.assertFalse(true);
+    }
+
+    // TODO - Create test to check Mammal inheritance; google search `java instanceof keyword`
+    @Test
+    public void mammalInheritanceCatTest(){
+        Assert.assertFalse(true);
+    }
 
     @Test
     public void constructorTest() {
